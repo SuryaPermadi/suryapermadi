@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Focus on Website & Landing Page | UI UX | System Analyst<br>🌱 Currently learning React, Tailwind CSS, Flutter<br>🎯 Interested in UI/UX & Conversion-focused Design<br>👯 Open for collaboration on Web & Digital Projects<br>⚡ Fun fact: I enjoy turning ideas into clean and usable interfaces
+🔭 Focus on Website & Landing Page | UI UX | System Analyst<br>🌱 Currently learning React, Tailwind CSS, JavaScript <br>🎯 Interested in UI/UX & Conversion-focused Design<br>👯 Open for collaboration on Web & Digital Projects<br>⚡ Fun fact: I enjoy turning ideas into clean and usable interfaces
 
 
 # 💻 Tech Stack:
