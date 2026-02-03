@@ -1,25 +1,31 @@
-## Hi there, salam kenal aku Surya Permadi Wicaksana👋
+<h1 align="center">Hi 👋, I'm Surya Permadi</h1>
+<h3 align="center">Web Developer | Landing Page Specialist | UI Enthusiast</h3>
 
-Front End Developer | IT Governance | System Analyst
-HTML CSS TYPESCRIPT JAVASCRIPT REACT LARAVEL MYSQL
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SuryaPermadi&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Super-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Super-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Super-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Super-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Super-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+---
 
+## 👨‍💻 About Me
 
-##
+- 🔭 Focused on **Website & Landing Page Development**
+- 🌱 Currently learning **React, Tailwind CSS, Flutter**
+- 🎯 Interested in **UI/UX & Conversion-focused Design**
+- 👯 Open for collaboration on **Web & Digital Projects**
+- ⚡ Fun fact: _I enjoy turning ideas into clean and usable interfaces_
 
-<div> 
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+---
+
+## 🛠 Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,flutter,git,github,vscode" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: www.linkedin.com/in/suryapermadiwicaksana24
+- 🌍 Portfolio: https://my-portfolio-two-ashy-87.vercel.app
