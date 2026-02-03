@@ -9,11 +9,11 @@
 
 ## 👨‍💻 About Me
 
-🔭 Focused on **Website & Landing Page Development**
-🌱 Currently learning **React, Tailwind CSS, Flutter**
-🎯 Interested in **UI/UX & Conversion-focused Design**
-👯 Open for collaboration on **Web & Digital Projects**
-⚡ Fun fact: _I enjoy turning ideas into clean and usable interfaces_
+- 🔭 Focused on **Website & Landing Page Development**
+- 🌱 Currently learning **React, Tailwind CSS, Flutter**
+- 🎯 Interested in **UI/UX & Conversion-focused Design**
+- 👯 Open for collaboration on **Web & Digital Projects**
+- ⚡ Fun fact: _I enjoy turning ideas into clean and usable interfaces_
 
 ---
 
